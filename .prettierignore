@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+.angular/
+node_modules/
+src/main.ts
+src/polyfills.ts
+src/test.ts
